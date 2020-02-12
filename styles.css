@@ -1,13 +1,12 @@
 .nav-link:hover{
     color:lightgray;
-    
-    
-}
+ }
 
 
 .colorful{
 	color:pink;
 }
+
 
 .nav-item:hover{
     text-decoration: underline;
@@ -21,6 +20,8 @@
 
 .navbar-nav{
     margin-right: 5%;
+   padding: 30px 10px;
+    text-decoration: none;
 }
     
 
@@ -29,10 +30,12 @@ background-image: url("https://tinyhorse.com/wp-content/uploads/2019/04/tiny-hor
 background-size: cover;
     height: 800px;
     width: 100%;
+    padding: 50px
+
 }
 
 h1{
-	font-size: 60px;
+	font-size: 70px;
 	font-family:serif;
 	font-style: normal;
 	font-weight: 400 bold;
@@ -40,7 +43,9 @@ h1{
 	color: #f4eae9;
 	text-align: left;
 white-space: pre-line;
-    padding: 50px;
+    margin-left: 35px;
+    padding-top: 200px;
+
     
 }
 
@@ -50,46 +55,81 @@ background-image: url("https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Hor
 background-attachment: scroll
 border-color#212326;
 height: 200px;
+padding:20px;
 
 }
 
 
 .mx-auto{
-	font-family: serif;}
+font-family: serif;
+  text-align: center; 
+    font-size: 30px; 
+    font-family: Georgia; 
+    padding: 50px;
+}
 
 
 .card-deck {
-background-color: #f4eae9;
+
+
 font-family: serif;
 font-style: normal;
 font-weight: 400;
-
+text-align: center;
+padding: 10px;
 
 }
 
+.blockquote{
+    font-size:;
+    text-transform: none;
+    font-weight: 300;
+    padding-bottom: 25%;
+}
+}
+
+
+.container-fluid{
+    background-color:#f4eae9;
+}
+
+
+
 #press{
 background-color:#ffffff;
-padding top: 10px;
+padding: 70px;
 }
 
 
 #contact{
  background: url("https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg") no-repeat center;
     background-size: cover;
-    color: whitesmoke;
+    color:lightgray;
     padding: 5%;
     font-family:serif;
+    font-weight: 400px;
+    width: 100%;
 
 }
 
-#callToAction{
+
+#join{
 height: 300px
 	font-size: 40px;
     color: white;
     padding: 10px 40px 70px 40px;
     font-family:serif;
 }
+
+
+h6{
+color: white;
+text-align:left;
+    font-size: 15px;
+    padding: 40px;
+
 }
+
 .email{
 	color:#ffffff;
 }
@@ -98,12 +138,12 @@ height: 300px
 height:200px;
 border-color: #212326;
 font-family:helvetica;
+background-color: #252526;
+width: 100%;
 }
+
 
 #copyright, #copyright a {
     color: #94B9DA;
-    font-size: 12px;
+    font-size: 12px;}
 
-.colorful{
-
-}
