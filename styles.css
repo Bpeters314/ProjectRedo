@@ -1,0 +1,109 @@
+.nav-link:hover{
+    color:lightgray;
+    
+    
+}
+
+
+.colorful{
+	color:pink;
+}
+
+.nav-item:hover{
+    text-decoration: underline;
+    text-decoration-color: lightgray;
+}
+
+.nav-link {
+    color:#ffffff;
+    text-transform: uppercase;
+    text-decoration: none;}
+
+.navbar-nav{
+    margin-right: 5%;
+}
+    
+
+#uppersection{
+background-image: url("https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg");
+background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+
+h1{
+	font-size: 60px;
+	font-family:serif;
+	font-style: normal;
+	font-weight: 400 bold;
+	display:inline-block;
+	color: #f4eae9;
+	text-align: left;
+white-space: pre-line;
+    padding: 50px;
+    
+}
+
+
+#carouselExampleControls{
+background-image: url("https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg");no background-repeat: no-repeat;
+background-attachment: scroll
+border-color#212326;
+height: 200px;
+
+}
+
+
+.mx-auto{
+	font-family: serif;}
+
+
+.card-deck {
+background-color: #f4eae9;
+font-family: serif;
+font-style: normal;
+font-weight: 400;
+
+
+}
+
+#press{
+background-color:#ffffff;
+padding top: 10px;
+}
+
+
+#contact{
+ background: url("https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg") no-repeat center;
+    background-size: cover;
+    color: whitesmoke;
+    padding: 5%;
+    font-family:serif;
+
+}
+
+#callToAction{
+height: 300px
+	font-size: 40px;
+    color: white;
+    padding: 10px 40px 70px 40px;
+    font-family:serif;
+}
+}
+.email{
+	color:#ffffff;
+}
+
+#footer{
+height:200px;
+border-color: #212326;
+font-family:helvetica;
+}
+
+#copyright, #copyright a {
+    color: #94B9DA;
+    font-size: 12px;
+
+.colorful{
+
+}
